@@ -47,4 +47,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: chandrA957355/Homework-8:latest
+          tags: chandrA957355/homework-8:latest
